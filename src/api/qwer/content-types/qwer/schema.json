@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "qwers",
+  "info": {
+    "singularName": "qwer",
+    "pluralName": "qwers",
+    "displayName": "qwer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}
